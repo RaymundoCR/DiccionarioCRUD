@@ -1,0 +1,8 @@
+C:\Users\rayse\source\repos\DiccionarioCRUD\DiccionarioCRUD\obj\Debug\DiccionarioCRUD.csproj.AssemblyReference.cache
+C:\Users\rayse\source\repos\DiccionarioCRUD\DiccionarioCRUD\obj\Debug\DiccionarioCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\rayse\source\repos\DiccionarioCRUD\DiccionarioCRUD\obj\Debug\DiccionarioCRUD.csproj.CoreCompileInputs.cache
+C:\Users\rayse\source\repos\DiccionarioCRUD\DiccionarioCRUD\bin\Debug\DiccionarioCRUD.exe.config
+C:\Users\rayse\source\repos\DiccionarioCRUD\DiccionarioCRUD\bin\Debug\DiccionarioCRUD.exe
+C:\Users\rayse\source\repos\DiccionarioCRUD\DiccionarioCRUD\bin\Debug\DiccionarioCRUD.pdb
+C:\Users\rayse\source\repos\DiccionarioCRUD\DiccionarioCRUD\obj\Debug\DiccionarioCRUD.exe
+C:\Users\rayse\source\repos\DiccionarioCRUD\DiccionarioCRUD\obj\Debug\DiccionarioCRUD.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiccionarioCRUD", "DiccionarioCRUD\DiccionarioCRUD.csproj", "{A583DF98-A43B-4EAB-A6DD-D0A0FDCAD403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A583DF98-A43B-4EAB-A6DD-D0A0FDCAD403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A583DF98-A43B-4EAB-A6DD-D0A0FDCAD403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A583DF98-A43B-4EAB-A6DD-D0A0FDCAD403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A583DF98-A43B-4EAB-A6DD-D0A0FDCAD403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939BAF73-0754-4959-80E6-643246DB9C35}
+	EndGlobalSection
+EndGlobal
